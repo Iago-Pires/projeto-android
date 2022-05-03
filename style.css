@@ -85,7 +85,6 @@ main{
 main h1{
     font-family: var(--font-android);
     color: var(--cor5);
-    font-weight: normal;
     font-size: 1.6em;
 }
 main h2{
@@ -94,7 +93,6 @@ main h2{
     font-size: 1.3em;
     background-image: linear-gradient(to right, var(--cor2),transparent);
     text-indent: 10px;
-    font-weight: normal;
 }
 main p{
     margin: 15px 0px;
